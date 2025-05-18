@@ -10,7 +10,7 @@
 
 | Project                          | Status / Link                                       |
 |----------------------------------|-----------------------------------------------------|
-| Data Structure and Algorithms    | ❌                                                  |
+| [Data Structure and Algorithms](https://github.com/fradane/PastryShopSimulator)    | 🟩                                                  |
 | Logic Network Project            | ⚠️                                                  |
 | Robotics Projects                | ⚠️                                                  |
 | Software Engineering Project     | ⚠️                                                  |
@@ -19,7 +19,7 @@
 
 - ❌ = repo to be created, but the project is complete (feel free to ask if interested) 
 - ⚠️ = private repository because the project might still be evaluated by teacher and I'm not allowed to publish it (feel free to ask if interested) 
-- 🔗 = public repository, navigate through it freely
+- 🟩 = public repository, navigate through it freely
 
 ---
 
