@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Francesco Danese
 
-🎓 Third-year Computer Engineering student at Politecnico di Milano.  
+🎓 First-year MSc in Computer Science and Engineering at Politecnico di Milano.  
 💻 Passionate about technology, software development, and everything related to computer science.  
 📚 Always looking for new challenges to grow and learn.
 
